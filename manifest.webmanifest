@@ -1,25 +1,24 @@
 {
   "name": "pwa-test",
   "short_name": "pwa-test",
-  "theme_color": "#1976d2",  "scope": "/",
+  "theme_color": "#1976d2",
+  "scope": "/",
   "share_target": {
     "action": "/_share-target",
     "enctype": "multipart/form-data",
     "method": "POST",
     "params": {
-      "files": [{
-        "name": "media",
-        "accept": [
-          "audio/*",
-          "image/*",
-          "video/*"
-        ]
-      }]
+      "files": [
+        {
+          "name": "media",
+          "accept": ["audio/*", "image/*", "video/*"]
+        }
+      ]
     }
   },
   "background_color": "#fafafa",
   "display": "fullscreen",
-  "start_url": "/?utm_source=installed",
+  "start_url": "./",
   "icons": [
     {
       "src": "assets/icons/icon-72x72.png",
