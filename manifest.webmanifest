@@ -3,12 +3,18 @@
   "short_name": "pwa-test",
   "theme_color": "#1976d2",
   "share_target": {
-    "action": "/share-target/",
-    "method": "GET",
+    "action": "/_share-target",
+    "enctype": "multipart/form-data",
+    "method": "POST",
     "params": {
-      "title": "title",
-      "text": "text",
-      "url": "url"
+      "files": [{
+        "name": "media",
+        "accept": [
+          "audio/*",
+          "image/*",
+          "video/*"
+        ]
+      }]
     }
   },
   "background_color": "#fafafa",
