@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1672669252994,
+  "timestamp": 1672669643338,
   "index": "https://hassan-kakeh.github.io/pwa/index.html",
   "assetGroups": [
     {
@@ -82,7 +82,7 @@
     "https://hassan-kakeh.github.io/pwa/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
     "https://hassan-kakeh.github.io/pwa/index.html": "f9fee95768ae2278fc7d2b258a212941291fc02f",
     "https://hassan-kakeh.github.io/pwa/main.e4e651b1fd9aeb45.js": "db2f1c98e41fffe6ac7b5364802c74083ca530a8",
-    "https://hassan-kakeh.github.io/pwa/manifest.webmanifest": "abe10b10c56fc0c897578ade3640f4f8af06b8f0",
+    "https://hassan-kakeh.github.io/pwa/manifest.webmanifest": "5815c53229fd3b32dcd1cd9cbf8a3ed7ecbfca80",
     "https://hassan-kakeh.github.io/pwa/polyfills.d5cb6db5d0867c14.js": "df5121cb6bf58b1a1b4c99ae68e1047748b458c5",
     "https://hassan-kakeh.github.io/pwa/runtime.762ce9009b19e53e.js": "cbf5319ad7f70d2622f74344f3a687b7ade2bc51",
     "https://hassan-kakeh.github.io/pwa/styles.5752f2bd6fbd629e.css": "7db56a4d240026d7718035de8b2bc66e66e4d804"
