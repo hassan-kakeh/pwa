@@ -4,7 +4,7 @@
   "theme_color": "#1976d2",
   "scope": "/",
   "share_target": {
-    "action": "/_share-target",
+    "action": "/",
     "enctype": "multipart/form-data",
     "method": "POST",
     "params": {
