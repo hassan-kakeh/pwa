@@ -13,7 +13,7 @@
     }
   },
   "background_color": "#fafafa",
-  "display": "standalone",
+  "display": "minimal-ui",
   "start_url": "./",
   "icons": [
     {
