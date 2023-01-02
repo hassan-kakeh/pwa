@@ -5,15 +5,11 @@
   "scope": "/",
   "share_target": {
     "action": "/",
-    "enctype": "multipart/form-data",
-    "method": "POST",
+    "method": "GET",
     "params": {
-      "files": [
-        {
-          "name": "media",
-          "accept": ["audio/*", "image/*", "video/*"]
-        }
-      ]
+      "title": "title",
+      "text": "text",
+      "url": "url"
     }
   },
   "background_color": "#fafafa",
