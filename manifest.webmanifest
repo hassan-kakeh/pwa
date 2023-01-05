@@ -13,7 +13,7 @@
     }
   },
   "background_color": "#fafafa",
-  "display": "minimal-ui",
+  "display": "fullscreen",
   "start_url": "./",
   "icons": [
     {
